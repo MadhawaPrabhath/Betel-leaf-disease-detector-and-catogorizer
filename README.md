@@ -109,5 +109,3 @@ Result images and a `summary.csv` (opens in Excel) are saved to `results/`.
 ## Built with
 
 Python · OpenCV · NumPy · Matplotlib
-
-Originally built as university coursework, then rebuilt and published here.
